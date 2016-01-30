@@ -3,6 +3,7 @@ layout: post
 title:  "Vate vacet"
 date:   2015-11-20 14:30:40 -0600
 categories: jekyll update
+featured: true
 ---
 
 ## Per puer ridentem parsque et quoque baculi
