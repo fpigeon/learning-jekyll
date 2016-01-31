@@ -4,6 +4,7 @@ title:  "Vate vacet"
 date:   2015-11-20 14:30:40 -0600
 categories: jekyll update
 featured: true
+tags: layout design
 ---
 
 ## Per puer ridentem parsque et quoque baculi

@@ -4,6 +4,7 @@ title:  "Themis si aliqua"
 date:   2015-12-29 14:30:40 -0600
 categories: jekyll update
 featured: true
+tags: inspiration
 ---
 
 ## Per ut altera iurat

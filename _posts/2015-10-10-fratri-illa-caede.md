@@ -3,6 +3,7 @@ layout: post
 title:  "Fratri illa caede"
 date:   2015-10-10 14:30:40 -0600
 categories: jekyll update
+tags: snippet
 ---
 
 ## Occupat amari ceris nondum inguine forte aequore
