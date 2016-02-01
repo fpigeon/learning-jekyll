@@ -2,7 +2,7 @@
 layout: post
 title:  "Themis si aliqua"
 date:   2015-12-29 14:30:40 -0600
-categories: jekyll update
+categories: blog
 featured: true
 tags: inspiration
 ---

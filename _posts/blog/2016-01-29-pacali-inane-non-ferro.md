@@ -2,7 +2,7 @@
 layout: post
 title:  "Pacali inane non ferro"
 date:   2016-01-29 14:30:40 -0600
-categories: jekyll update
+categories: blog
 tags: code
 ---
 

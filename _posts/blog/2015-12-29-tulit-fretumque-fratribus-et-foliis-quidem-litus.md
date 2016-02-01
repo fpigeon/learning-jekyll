@@ -2,7 +2,7 @@
 layout: post
 title:  "Tulit fretumque fratribus et foliis quidem litus"
 date:   2016-12-29 14:30:40 -0600
-categories: jekyll update
+categories: blog
 tags: code inspiration
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "In penetrabile es dictis necem ingentibus victoria"
 date:   2015-09-09 11:30:40 -0600
-categories: jekyll update
+categories: blog
 tags: design
 ---
 ## Aura effugit fulgentem corneus tepido fuisset

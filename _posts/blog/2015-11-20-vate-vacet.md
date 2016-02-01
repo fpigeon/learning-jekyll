@@ -2,7 +2,7 @@
 layout: post
 title:  "Vate vacet"
 date:   2015-11-20 14:30:40 -0600
-categories: jekyll update
+categories: blog
 featured: true
 tags: layout design
 ---
